@@ -1,3 +1,10 @@
+## 🖼 Screenshot
+
+
+![Screenshot_3-8-2025_184346_reshmashameem31 github io](https://github.com/user-attachments/assets/3cb502c2-567c-49c7-afc3-6afd985eca1e)
+
+
+
 # Apple Clone
 
 This is a *frontend clone* of the official Apple website, created using *React, **Vite, and **Tailwind CSS*.  
@@ -18,13 +25,6 @@ The goal of this project is to recreate the clean, modern, and responsive design
 - Apple-style hero section with product highlights.
 - Clean UI built with Tailwind CSS.
 - React Icons for scalable and lightweight icons.
-
----
-
-## 🖼 Screenshot
-
-(![Screenshot_3-8-2025_184346_reshmashameem31 github io](https://github.com/user-attachments/assets/4940fb29-d9c9-4177-86c9-ff9fa19a6c61)
-)
 
 ---
 
