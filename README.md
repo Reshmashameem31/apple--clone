@@ -1,7 +1,8 @@
 ## 🖼 Screenshot
 
 
-"C:\Users\rishi\Downloads\Screenshot_3-8-2025_184346_reshmashameem31.github.io.jpeg"
+
+![Screenshot_3-8-2025_184346_reshmashameem31 github io](https://github.com/user-attachments/assets/f6693fdc-37b0-4773-987f-deb46073baeb)
 
 
 
