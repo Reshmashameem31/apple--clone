@@ -6,10 +6,10 @@ The goal of this project is to recreate the clean, modern, and responsive design
 ---
 
 ## 📂 GitHub Repository
-[View the  code on GitHub](https://github.com/Reshmashameem31/apple--clone)
+(https://github.com/Reshmashameem31/apple--clone)
 
 ## 🌐 Live Website
-[Visit the live site here](https://Reshmashameem31.github.io/apple--clone)
+[Visit the live site here](https://reshmashameem31.github.io/apple--clone/)
 
 ---
 
@@ -22,8 +22,9 @@ The goal of this project is to recreate the clean, modern, and responsive design
 ---
 
 ## 🖼 Screenshot
-(Add your project screenshot below)  
-![Project Screenshot](./public/preview.png)
+
+(![Screenshot_3-8-2025_184346_reshmashameem31 github io](https://github.com/user-attachments/assets/4940fb29-d9c9-4177-86c9-ff9fa19a6c61)
+)
 
 ---
 
